@@ -14,5 +14,6 @@
 #include <NTPClient.h>
 #include <PubSubClient.h>
 
+#include <string>
 #include <memory>
 using namespace std;
